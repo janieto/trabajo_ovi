@@ -2,6 +2,7 @@
 	margin: 0;
 	padding: 0;
 }
+
 body{
 
 	background-image: url("../img/imagnefondo.jpg");
@@ -12,11 +13,23 @@ a{
 }
 #contenedor{
 	width: 1415px;
+	height: 330px;
 	margin: auto;
 	margin-top: 20px;
 	border-radius: 10px;
 	overflow: hidden;
 	margin-bottom: 20px;
+	background-image: url("../img/fondo1.jpg");
+	color: #fff;
+
+}
+.contenedor-imagen p{
+	position: absolute;
+	width: 800px;
+	margin-top: 50px;
+	margin-left:500px;
+	font-family: arial;
+	font-size: 30px;
 
 }
 .contenedor-menu{
