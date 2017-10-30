@@ -44,6 +44,7 @@ a{
 	margin-bottom: 20px;
 	display: inline-block;
 	font-family: arial;
+	font-size: 20px;
 	line-height: 18px;
 	float: left;
 }
@@ -56,7 +57,7 @@ a{
 .contenedor-menu .menu li a{
 	color:#000000;
 	display: block;
-	padding: 15px 20px;
+	padding: 20px 20px;
 	background: #ecf0f1;
 	border-radius: 10px;
 	text-decoration:none;
@@ -67,7 +68,7 @@ a{
 	color:#fff;
 }
 .contenedor-menu .menu .icono{
-	font-size: 12px;
+	font-size: 15px;
 	line-height: 18px;
 
 }
@@ -75,10 +76,7 @@ a{
 	float: left;
 	margin-right: 10px;
 }
-.contenedor-menu .menu .icono.derecha{
-	float: right;
-	margin-left: : 10px;
-}
+
 .contenedor-menu .menu ul {
 	display: none;
 
